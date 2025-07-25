@@ -15,7 +15,7 @@ print("| ᗷᐱᕕᗋᑌᕬᑌᖘ - @Vladimir_20078 [tg]                        
 print("| Рома Березовський Савченко - @berezovskijromcik53 [tg] [developer] [banned]  |")
 print("| Алексей - @suharik321 [tg]                                                   |")
 print("| iOS6U$ER - @iOS6USER_tg [tg]                                                 |")
-print("| Perry Plat - @luckycat086 [tg] [developer]                                   |")
+print("| Perry Balloon - @PerryTheBalloon [tg] [developer]                            |")
 print("| ᙓᙖᒋᙓᕼᑌᕫ - @yt066 [tg]                                                        |")
 print("| чел - @Mihatop [tg]                                                          |")
 print("| Ivan Rusak - @MrFikus13 [tg]                                                 |")
